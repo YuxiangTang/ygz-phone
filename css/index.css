@@ -171,7 +171,7 @@ html, body {
     background: url(../images/nav_bg0707.png) 0 5px no-repeat;
     /*_background: url(../images/nav_bg0707-ie.png) 0 5px no-repeat;*/
     _width: 300px;
-    height: 297px;
+    height: 427px;
     overflow: hidden;
     padding: 5px 0;
     width: 130px;
@@ -222,16 +222,6 @@ html, body {
     margin-bottom: 27px
 }
 
-.sub_nav .y_c4 .cur {
-    background-position: 0 -193px;
-}
-
-.sub_nav .y_c5 .cur {
-    background-position: 0 -259px
-}
-.sub_nav .y_c6 .cur {
-    background-position: 0 -193px;
-}
 .sub_nav .cur {
     color: red
 }
