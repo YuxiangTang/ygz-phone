@@ -222,6 +222,20 @@ html, body {
     margin-bottom: 27px
 }
 
+
+.sub_nav .y_c4 .cur {
+    background-position: 0 -194px;
+}
+
+.sub_nav .y_c5 .cur {
+    background-position: 0 -259px;
+}
+.sub_nav .y_c6 .cur {
+    background-position: 0 -323px;
+}
+.sub_nav .y_c7 .cur {
+    background-position: 0 -390px;
+}
 .sub_nav .cur {
     color: red
 }
